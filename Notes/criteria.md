@@ -2,7 +2,7 @@
 
 - [ ] Add DOCTYPE declaration
 
-  - Include <!DOCTYPE html> at the start of the HTML file
+  - Include &lt;!DOCTYPE html&gt; at the start of the HTML file
 
 - [ ] Add HTML element with lang attribute
 
